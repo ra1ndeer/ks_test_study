@@ -1,0 +1,8 @@
+{
+    "destination_path": "mean_changes",
+    "sample_sizes": [15, 30, 50, 100, 150, 200, 500, 1000],
+    "granularity": 300,
+    "num_iterations": 1000,
+    "min_mean": -3,
+    "max_mean": 3
+}

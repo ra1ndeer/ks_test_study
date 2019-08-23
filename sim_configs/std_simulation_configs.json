@@ -1,0 +1,8 @@
+{
+    "destination_path": "std_changes",
+    "sample_sizes": [15, 30, 50, 100, 150, 200, 500, 1000],
+    "granularity": 300,
+    "num_iterations": 1000,
+    "min_scale": 0.01,
+    "max_scale": 3.01
+}

@@ -1,9 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1566651349 "/home/ra1ndeer/Documents/ks_test_study/report/report.tex" "/home/ra1ndeer/Documents/ks_test_study/report/report.pdf" "report" 1566651349
+["pdflatex"] 1566766673 "/home/ra1ndeer/Documents/ks_test_study/report/report.tex" "/home/ra1ndeer/Documents/ks_test_study/report/report.pdf" "report" 1566766673
   "/etc/texmf/web2c/texmf.cnf" 1566649133 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/ra1ndeer/Documents/ks_test_study/report/report.aux" 1566651349 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/ra1ndeer/Documents/ks_test_study/report/report.tex" 1566651349 1376 7f03875b7bdd9b98b00cb41296ba229d ""
+  "/home/ra1ndeer/Documents/ks_test_study/report/report.aux" 1566766673 420 9a5d5f32aabbefb2697e935815cd128e ""
+  "/home/ra1ndeer/Documents/ks_test_study/report/report.tex" 1566766673 1465 001dee87d1249c5dd4edcc0082bef999 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -16,6 +17,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1480098733 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1480098733 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1480098733 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -34,11 +36,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551226139 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1566649166 3236060 fd056e42459c13cbcb0cc6e0a7cae8d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566649175 4234906 5be26c1f54aa4accd043c4a4e47d27e4 ""
-  "report.aux" 1566651349 8 a94a2480d3289e625eea47cd1b285758 ""
-  "report.tex" 1566651349 1376 7f03875b7bdd9b98b00cb41296ba229d ""
+  "report.aux" 1566766673 420 9a5d5f32aabbefb2697e935815cd128e ""
+  "report.tex" 1566766673 1465 001dee87d1249c5dd4edcc0082bef999 ""
   (generated)
-  "report.aux"
   "/home/ra1ndeer/Documents/ks_test_study/report/report.log"
   "report.log"
   "report.pdf"
+  "report.aux"
   "/home/ra1ndeer/Documents/ks_test_study/report/report.pdf"
